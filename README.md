@@ -36,3 +36,52 @@ Se dicta en el ciclo de Bachillerato, pertenece a la línea 'Representación y M
 1.	Obteniendo datos desde la Web
 2.	Software de Ilustración / Animación
 3.	Programación en el mundo físico
+
+
+
+##Semana 1
+PPT Conceptos
+Pseudo Código
+IDE
+Sintáxis
+Comentarios
+In/Out
+
+
+##Semana 2
+Figuras()
+Colores
+Variables
+Data Type
+
+##Semana #
+Matemática
+Interacción (mouseX)
+For Loops
+conditionals
+Random
+
+##Semana 4
+Translate
+Scale
+Rotate
+Constantes
+Interacción #2
+Importar Imágenes
+Funciones
+
+##Semana 5
+Strings
+Fonts
+Librerías
+
+##Semana 6
+Web API
+
+##Semana 7
+preparación Examen
+
+##Semana 8
+pre-entrega Examen
+
+
