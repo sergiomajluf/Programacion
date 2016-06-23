@@ -11,8 +11,8 @@ Se dicta en el ciclo de Bachillerato, pertenece a la línea 'Representación y M
 1.	Por qué programar hoy
 2.	Diferentes tipos de lenguajes y sus usos
 3.	Características de una instrucción
-	a.	Procedimientos e Instrucciones
-	b.	Entrada, Salida y Lógica
+	- Procedimientos e Instrucciones
+	- Entrada, Salida y Lógica
 	c.	Linealidad v/s multitarea
 	d.	Tipos de información y su representación en programación
 4. El entorno gráfico digital

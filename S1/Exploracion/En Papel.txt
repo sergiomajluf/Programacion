@@ -1,0 +1,6 @@
+Programación manual
+
+Entregar una hoja de papel con:
+- grilla dibujada de 100 x 100
+- con ejes numerados
+- con espacio para escribir el código
