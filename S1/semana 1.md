@@ -10,3 +10,17 @@ https://docs.google.com/presentation/d/1625s7b1eRyQE44NMxdRlbX5_t0OCbELBaUqFdElq
 
 
 https://github.com/ITPNYU/ICM-2015
+
+
+## Referentes para esta semana
+* [Nombre del link](http://)
+
+* [Nombre del link](http://)
+* [Nombre del link](http://)
+* [Nombre del link](http://)
+* [Nombre del link](http://)
+* [Nombre del link](http://)
+* [Nombre del link](http://)
+* [Nombre del link](http://)
+
+

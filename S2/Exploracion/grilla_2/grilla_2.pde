@@ -7,6 +7,3 @@
       point(i*10, j*10);
     }
   }
-
-
-println(width);
