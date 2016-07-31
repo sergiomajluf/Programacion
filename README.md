@@ -1,13 +1,36 @@
 # Programacion
-Repositorio para el curso de Programación en la Facultad de Diseño UDD
+Repositorio de información, código, links y documentos para el curso de **Programación**, en la Facultad de Diseño UDD.
 
 
 ## Descripción del Curso
-En este curso el alumno aprende los fundamentos y conocimientos básicos de la programación para ejecutar ejercicios simples comprendiendo la lógica del lenguaje de códigos. El alumno entiende el rol que juega la computación en la resolución de problemas y aprecia el uso de los principios fundamentales del diseño modular y abstracto en variados contextos. 
+En este curso el alumno aprende los fundamentos y conocimientos básicos de la programación y pensamiento computacional, para ejecutar ejercicios simples comprendiendo la lógica del lenguaje de códigos. El alumno entiende el rol que juega la computación en la resolución de problemas y aprecia el uso de los principios fundamentales del diseño modular y abstracto en variados contextos. 
 
 Se dicta en el ciclo de Bachillerato, pertenece a la línea 'Representación y Medios' y aporta en el desarrollo de las competencias: Observación y Conceptualización, Herramientas Tecnológicas y Procesos de Producción
 
-##UNIDAD 1: INTRODUCCIÓN A LA PROGRAMACIÓN
+## Competencias
+Junto con los conocimientos introductorios al pensamiento computacional, este curso desarrolla en los estudiantes las habilidades o competencias de **Creatividad** y **Dominio de Herramientas Metodológicas**. El desarrollo de dichas competencias es parte del modelo educativo de la Facultad de Diseño.
+
+## Formato y Duración
+* El curso se dicta a lo largo de 8 semanas.
+* Previo a cada clase, los estudiantes deberán completar las lecturas (y revisión de material bibliográfico en video) asignados para cada sesión.
+* Durante cada sesión, se desarrollarán ejercicios prácticos
+* A través de la discusión guiada y el análisis de dichos ejercicios, se desarrolla el aprendizaje.
+
+## Evaluación
+Existirán al menos 4 evaluaciones calificadas durante el semestre, que en su totalidad deberán sumar el 100% de la Nota de Presentación a Examen.Esta a su vez equivaldrá al 70% de la nota final del ramo.Ninguna evaluación podrá, por sí sola, ponderar más del 25% de la nota total del curso.
+Las evaluaciones se componen de:
+* Participación constante de cada estudiante
+* Ejercicios semanales
+* Examen Final
+
+## Bibliografía
+###Bibliografía Obligatoria:1.	Shiffman, D. (n.d.). Hello Processing. Recuperado: 10 de julio de 2015, desde [http://hello.processing.org](http://hello.processing.org) 2.	 Shiffman, D. (2008). Learning Processing, A Beginner’s Guide to Programming Images, Animation, and Interaction. Nueva York: Morgan Kaufmann Publishers.###Bibliografía Complementaria:1.	Processing Foundation. Descargar Processing. Recuperado: 10 de julio de 2015, desde [http://www.processing.org/download](http://www.processing.org/download) 2.	Programación Creativa con Processing. Recuperado: 13 de agosto de 2015 desde [https://www.acamica.com/cursos/5/programacion-creativa-con-processing](https://www.acamica.com/cursos/5/programacion-creativa-con-processing) 
+
+
+## Contenidos
+
+
+###UNIDAD 1: INTRODUCCIÓN A LA PROGRAMACIÓN
 1.	Por qué programar hoy
 2.	Diferentes tipos de lenguajes y sus usos
 3.	Características de una instrucción
@@ -18,28 +41,29 @@ Se dicta en el ciclo de Bachillerato, pertenece a la línea 'Representación y M
 4. El entorno gráfico digital
 
 
-##UNIDAD 2: PROGRAMACIÓN EN PROCESSING
+###UNIDAD 2: PROGRAMACIÓN EN PROCESSING
 1.	IDE de Processing
 2.	Lenguaje
-	a)	Herramientas de dibujo y texto
-	b)	Variables, Arreglos/Arrays, Strings
-	c)	Condicionales
-	d)	Loops / Bucles
-	e)	Funciones
-	f)	Objetos
+	* 	Herramientas de dibujo y texto
+	* 	Variables, Arreglos/Arrays, Strings
+	* 	Condicionales
+	* 	Loops / Bucles
+	* 	Funciones
+	* 	Objetos
 3.	Imagen, Video y Sonido
 4.	Animación
 5. Interacción
 
 
-##UNIDAD 3: PROGRAMACIÓN EN OTROS CONTEXTOS
+###UNIDAD 3: PROGRAMACIÓN EN OTROS CONTEXTOS
 1.	Obteniendo datos desde la Web
 2.	Software de Ilustración / Animación
 3.	Programación en el mundo físico
 
 
+## Planificación Semanal
 
-##Semana 1
+###Semana 1
 PPT Conceptos
 Pseudo Código
 IDE
@@ -48,20 +72,20 @@ Comentarios
 In/Out
 
 
-##Semana 2
+###Semana 2
 Figuras()
 Colores
 Variables
 Data Type
 
-##Semana #
+###Semana #
 Matemática
 Interacción (mouseX)
 For Loops
 conditionals
 Random
 
-##Semana 4
+###Semana 4
 Translate
 Scale
 Rotate
@@ -70,18 +94,18 @@ Interacción #2
 Importar Imágenes
 Funciones
 
-##Semana 5
+###Semana 5
 Strings
 Fonts
 Librerías
 
-##Semana 6
+###Semana 6
 Web API
 
-##Semana 7
+###Semana 7
 preparación Examen
 
-##Semana 8
+###Semana 8
 pre-entrega Examen
 
 
