@@ -37,6 +37,11 @@ ___
 ## Video sugerido
 * [Hello Processing](http://hello.processing.org)
 * [Hello World!](https://vimeo.com/60731302)
+* Más referentes:
+	* [SUPERFICIE - MIGUEL NÓBREGA](vimeo.com/143076578) 
+	* [LIGHT KINETICS - ESPADAYSANTACRUZ](vimeo.com/149774067)
+	* [THE PATHFINDER - CHRISTIAN LOCLAIR](vimeo.com/111361109)
+	* [CITY FLOWS - TILL NAGEL & CHRISTOPHER PIETSCH](vimeo.com/173787508)
 
 # Entrega 01: Apropiación creativa
 
