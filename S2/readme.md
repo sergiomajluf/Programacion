@@ -3,15 +3,18 @@
 
 ---
 
-# Semana 01
+# Semana 02
 
 
-* Conceptos [slides](https://docs.google.com/presentation/d/1TkOjYquLQJma443gVMQepEwF7kcPXF99EXJM58xquPc/edit?usp=sharing)
+* Introducción y Conceptos [slides](https://docs.google.com/presentation/d/1TkOjYquLQJma443gVMQepEwF7kcPXF99EXJM58xquPc/edit?usp=sharing)
 * Pseudo Código
 * IDE
 * Sintáxis
 * Comentarios
-* In/Out
+* Funciones de configuración
+* Funciones de dibujo/forma
+* Funciones de apariencia
+
 
 ___
 
@@ -31,7 +34,11 @@ ___
 * [Apropiación y Diseño](https://www.interaction-design.org/literature/article/appropriation-and-design-a-tale-of-two-concepts)
 * [No aprendas a programar](https://techcrunch.com/2016/05/10/please-dont-learn-to-code/)
 
-## Entrega 01: Apropiación creativa
+## Video sugerido
+* [Hello Processing](http://hello.processing.org)
+* [Hello World!](https://vimeo.com/60731302)
+
+# Entrega 01: Apropiación creativa
 
 Recrear una pieza gráfica, pintura u objeto ya existente, utilizando estas funciones:
 
