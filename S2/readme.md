@@ -31,32 +31,21 @@ ___
 
 # Próxima Semana
 ## Lecturas
-* [Apropiación y Diseño](https://www.interaction-design.org/literature/article/appropriation-and-design-a-tale-of-two-concepts)
 * [No aprendas a programar](https://techcrunch.com/2016/05/10/please-dont-learn-to-code/)
 
 ## Video sugerido
 * [Hello Processing](http://hello.processing.org)
 * [Hello World!](https://vimeo.com/60731302)
 
-# Entrega 01: Apropiación creativa
+# Entrega 02: ...
 
-Recrear una pieza gráfica, pintura u objeto ya existente, utilizando estas funciones:
 
-	* background()
-	* stroke()
-	* fill()
-	* line()
-	* triangle()
-	* quad()
-	* rect()
-	* ellipse()
-	* arc()
 	
 **Formato de entrega:**
 crear un archivo comprimido `[apellido].zip` conteniendo la imagen de referencia y el sketch de Processing
 
 **Dónde entregar:**
-subir el archivo a [esta carpeta de dropbox](https://www.dropbox.com/request/opwZxqug3A2kf0IEu4Oh) antes de las 23:00 del lunes previo al curso.
+subir el archivo a [esta carpeta de dropbox](https://www.dropbox.com/request/opwZxqug3A2kf0IEu4Oh) antes de las 23:00 del lunes 15 de Agosto, previo al curso.
 
 **Evaluación:**
 Entregas tardías bajan 2 puntos
