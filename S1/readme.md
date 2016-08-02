@@ -6,14 +6,14 @@
 # Semana 01
 
 
-* Introducción y Conceptos [slides](https://docs.google.com/presentation/d/1TkOjYquLQJma443gVMQepEwF7kcPXF99EXJM58xquPc/edit?usp=sharing)
+* Introducción y Conceptos [ver **Google Slides**](https://docs.google.com/presentation/d/1TkOjYquLQJma443gVMQepEwF7kcPXF99EXJM58xquPc/edit?usp=sharing)
 * Pseudo Código
-* IDE
-* Sintáxis
-* Comentarios
-* Funciones de configuración
+* IDE de Processing
+* Sintáxis `lasFunciones(x,y);`
+* Comentarios `//comienzan con dobles slash`
+* Funciones de configuración `size(), background(), scale()`
 * Funciones de dibujo/forma
-* Funciones de apariencia
+* Funciones de apariencia)) `fill(), noFill(), stroke(), noStroke()`
 
 
 ___
@@ -30,7 +30,7 @@ ___
 
 
 # Próxima Semana
-## Lecturas
+## Lectas Obligatorias
 * [Apropiación y Diseño](https://www.interaction-design.org/literature/article/appropriation-and-design-a-tale-of-two-concepts)
 
 
@@ -38,10 +38,10 @@ ___
 * [Hello Processing](http://hello.processing.org)
 * [Hello World!](https://vimeo.com/60731302)
 * Más referentes:
-	* [SUPERFICIE - MIGUEL NÓBREGA](vimeo.com/143076578) 
-	* [LIGHT KINETICS - ESPADAYSANTACRUZ](vimeo.com/149774067)
-	* [THE PATHFINDER - CHRISTIAN LOCLAIR](vimeo.com/111361109)
-	* [CITY FLOWS - TILL NAGEL & CHRISTOPHER PIETSCH](vimeo.com/173787508)
+	* [SUPERFICIE - MIGUEL NÓBREGA](https://vimeo.com/143076578) 
+	* [LIGHT KINETICS - ESPADAYSANTACRUZ](https://vimeo.com/149774067)
+	* [THE PATHFINDER - CHRISTIAN LOCLAIR](https://vimeo.com/111361109)
+	* [CITY FLOWS - TILL NAGEL & CHRISTOPHER PIETSCH](https://vimeo.com/173787508)
 
 # Entrega 01: Apropiación creativa
 
