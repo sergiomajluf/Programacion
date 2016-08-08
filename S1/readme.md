@@ -13,7 +13,7 @@
 * Comentarios `//comienzan con dobles slash`
 * Funciones de configuración `size(), background(), scale()`
 * Funciones de dibujo/forma
-* Funciones de apariencia)) `fill(), noFill(), stroke(), noStroke()`
+* Funciones de apariencia `fill(), noFill(), stroke(), noStroke()`
 
 
 ___

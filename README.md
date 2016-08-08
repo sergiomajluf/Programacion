@@ -62,50 +62,55 @@ Existirán al menos 4 evaluaciones calificadas durante el semestre, que en su to
 
 
 ## Planificación Semanal
+Esta planificación semenal está siendo permanentemente actualizada para ajustarse a la realidad de lo visto durante la clase.
 
-###Semana 1
-PPT Conceptos
-Pseudo Código
-IDE
-Sintáxis
-Comentarios
-In/Out
+###Semana 1 / 02 de Agosto
+* PPT Conceptos
+* Pseudo Código
+* IDE
+* Sintáxis
+* Comentarios
+* Funciones de configuración
+* Funciones de dibujo/forma
+* Funciones de apariencia, trazo, relleno, colores
 
 
-###Semana 2
-Figuras()
-Colores
-Variables
-Data Type
+###Semana 2 / 09 de Agosto
+* ~~Figuras()~~
+* Colores
+* Variables y Data Types
+* Estructuras de Control (comparaciones, for loops, if/else)
+* Static v/s Interactive Sketch
+* Mouse Interaction
 
-###Semana #
-Matemática
-Interacción (mouseX)
-For Loops
-conditionals
-Random
+###Semana 3 / 16 de Agosto
+* ~~Matemática~~
+* ~~Interacción (mouseX)~~
+* ~~For Loops~~
+* ~~conditionals~~
+* Random
 
-###Semana 4
-Translate
-Scale
-Rotate
-Constantes
-Interacción #2
-Importar Imágenes
-Funciones
+###Semana 4 / 23 de Agosto
+* Translate
+* Scale
+* Rotate
+* Constantes
+* Interacción #2
+* Importar Imágenes
+* Funciones
 
-###Semana 5
-Strings
-Fonts
-Librerías
+###Semana 5 / 30 de Agosto
+* Strings
+* Fonts
+* Librerías
 
-###Semana 6
-Web API
+###Semana 6 / 06 de Septiembre
+* Web API
 
-###Semana 7
-preparación Examen
+###Semana 7 / 13 de Septiembre
+* preparación Examen
 
-###Semana 8
-pre-entrega Examen
+###Semana 8 / 27 de Septiembre
+* pre-entrega Examen
 
 

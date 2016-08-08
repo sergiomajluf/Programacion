@@ -5,15 +5,12 @@
 
 # Semana 02
 
-
-* Introducción y Conceptos [slides](https://docs.google.com/presentation/d/1TkOjYquLQJma443gVMQepEwF7kcPXF99EXJM58xquPc/edit?usp=sharing)
-* Pseudo Código
-* IDE
-* Sintáxis
-* Comentarios
-* Funciones de configuración
-* Funciones de dibujo/forma
-* Funciones de apariencia
+* Color
+* Variables y Data Types
+* Estructuras de Control (comparaciones, for loops, if/else)
+* Static v/s Interactive Sketch
+* Mouse Interaction
+	* mouseX, mouseY, pmpuseX, pmouseY 
 
 
 ___
@@ -34,19 +31,23 @@ ___
 * [No aprendas a programar](https://techcrunch.com/2016/05/10/please-dont-learn-to-code/)
 
 ## Video sugerido
-* [Hello Processing](http://hello.processing.org)
-* [Hello World!](https://vimeo.com/60731302)
+* [Estructuras de Control](https://www.acamica.com/clases/373/programacion-creativa-con-processing/estructuras-de-control-condicionales)
 	
 
-# Entrega 02: ...
+# Entrega 02: de lo simple a lo complejo a lo simple
+Desarrollar una composición gráfica de 800x600 pixeles de tamaño, donde se utilicen creativamente:
 
+	* variables
+	* parámetros
+	* estructura if/else
+	* eventos
 
 	
 **Formato de entrega:**
 crear un archivo comprimido `[apellido].zip` conteniendo la imagen de referencia y el sketch de Processing
 
 **Dónde entregar:**
-subir el archivo a [esta carpeta de dropbox](https://www.dropbox.com/request/opwZxqug3A2kf0IEu4Oh) antes de las 23:00 del lunes 15 de Agosto, previo al curso.
+subir el archivo a [esta carpeta de dropbox](https://www.dropbox.com/request/7wL5s29TbcFX9j52dkQ0) antes de las 23:00 del lunes 15 de Agosto, previo al curso.
 
 **Evaluación:**
 Entregas tardías bajan 2 puntos
