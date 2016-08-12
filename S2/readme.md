@@ -10,7 +10,7 @@
 * Estructuras de Control (comparaciones, for loops, if/else)
 * ~~Static v/s Interactive Sketch~~
 * ~~Mouse Interaction~~
-	* ~~mouseX, mouseY, pmpuseX, pmouseY ~~
+	* ~~mouseX, mouseY, pmpuseX, pmouseY~~
 
 ---
 
