@@ -8,9 +8,12 @@
 * Repaso Interacción de Usuario
 	* eventos de mouse
 	* eventos de teclado
-* Imágenes
-* Modularidad: Funciones propias
+
+* Modularidad: Funciones propia
 * Arrays
+
+* Imágenes
+
 
 ---
 
