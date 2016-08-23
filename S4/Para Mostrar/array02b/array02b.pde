@@ -1,3 +1,13 @@
+/*
+Acá estamos mezclando varias cosas previas.
+Tenemo un array declarado pero sin datos
+
+Luego en void setup le asignamos datos random
+y en void draw tenemos dos opciones
+- mostramos uno a uno con el click
+- ponemos play con el teclado
+*/
+
 float [] x;
 float [] y;
 int contador = 0;
@@ -15,7 +25,7 @@ void setup() {
 }
 
 void draw() {
-  background(255);
+  //background(255);
   ellipse(x[contador], y[contador], 20, 20);
 
   if (interruptor) {
@@ -44,5 +54,5 @@ void miPosicion() {
 
 void keyPressed() {
   printArray(x);
-  interruptor = true;
+  interruptor = !interruptor;
 }
