@@ -43,4 +43,4 @@ crear un archivo comprimido `[apellido].zip` conteniendo la imagen de referencia
 subir el archivo a [esta carpeta de dropbox](https://www.dropbox.com/request/7wL5s29TbcFX9j52dkQ0) antes de las 23:00 del lunes 22 de Agosto, previo al curso.
 
 **Evaluación:**
-Entregas tardías bajan 2 puntos
+Entregas tardías bajan 1 punto

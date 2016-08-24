@@ -2,7 +2,7 @@
 ## 1401S_DIC122_1_2016
 Repositorio de información, código, links y documentos para el curso de **Programación**, en la Facultad de Diseño UDD.
 
-Descargar [Programa del Curso en PDF](DIC122_Programación.pdf)
+Descargar [Programa del Curso en PDF](https://github.com/sergiomajluf/Programacion/blob/master/DIC122_Programaci%C3%B3n.pdf)
 
 
 ## Descripción del Curso
