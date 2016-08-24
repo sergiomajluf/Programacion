@@ -1,5 +1,8 @@
-# Programacion
+# Programación
+## 1401S_DIC122_1_2016
 Repositorio de información, código, links y documentos para el curso de **Programación**, en la Facultad de Diseño UDD.
+
+Descargar [Programa del Curso en PDF](DIC122_Programación.pdf)
 
 
 ## Descripción del Curso
@@ -62,7 +65,8 @@ Existirán al menos 4 evaluaciones calificadas durante el semestre, que en su to
 
 
 ## Planificación Semanal
-Esta planificación semenal está siendo permanentemente actualizada para ajustarse a la realidad de lo visto durante la clase.
+Esta planificación semenal **es permanentemente actualizada** para ajustarse a la realidad de lo visto durante la clase.
+Se sugiere revisar cada una de las semanas/carpetas para ver el detalle de los contenidos de cada sesión.
 
 ###Semana 1 / 02 de Agosto
 * PPT Conceptos
