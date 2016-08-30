@@ -5,7 +5,10 @@
 
 # Semana 05
 
-* 
+* Strings
+* PFont
+* PImage
+
 
 ---
 
@@ -19,10 +22,15 @@
 * [Estructuras de Control](https://www.acamica.com/clases/373/programacion-creativa-con-processing/estructuras-de-control-condicionales)
 	
 
-# Entrega 0: 
-...
+# Entrega 03: 
+Realizar una composición interesante utilizando todos los comandos aprendidos hasta ahora, entre ellos
 
-	* ...
+	* Eventos de Teclado
+	* Eventos de Mouse
+	* Loop / Condicionales
+	* Array
+	* PFont
+	* PImage
 
 	
 **Formato de entrega:**
