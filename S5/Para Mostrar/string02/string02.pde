@@ -12,11 +12,12 @@ void setup() {
 }
 void draw() {
   background(104, 220, 180);
-  if (keyPressed) {
+}
+
+void keyPressed() {
     // key es tipo char, por eso el truco de
     // sumarlo a un String vacío con ""
     miTecla = ""+key;
     
     println(miTecla);
-  }
 }

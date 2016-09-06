@@ -17,13 +17,11 @@ void draw() {
   fill(255,0,255);
   // text(str, x1, y1, x2, y2)
   text(saludo, 50, 100, width-50, height-50);
-  
 }
 void keyPressed() {
   saludo = saludo + key; 
   println(saludo);
 }
-
 void mousePressed() {
   saludo = "";
   println(saludo);
