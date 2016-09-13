@@ -1,5 +1,15 @@
+/*
+Describan de que se trata el codigo
+Creado por:
+Fecha:
+curso:
+
+
+*/
+
+
 void setup() {
-  
+  // esto dibuja el fondo
   size(400, 800);
 }
 
