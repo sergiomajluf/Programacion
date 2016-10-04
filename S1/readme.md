@@ -31,7 +31,7 @@ ___
 
 # Próxima Semana
 ## Lectas Obligatorias
-* [Apropiación y Diseño](https://www.interaction-design.org/literature/article/appropriation-and-design-a-tale-of-two-concepts)
+
 
 
 ## Video sugerido
@@ -45,7 +45,7 @@ ___
 
 # Entrega 01: Apropiación creativa
 
-Recrear una pieza gráfica, pintura u objeto ya existente, utilizando estas funciones:
+Re-interpretar una pieza gráfica, artística, fotográfica o plástica, en una vista recortada de  400x400 pixeles, utilizando estas funciones:
 
 	* background()
 	* stroke()
@@ -58,10 +58,10 @@ Recrear una pieza gráfica, pintura u objeto ya existente, utilizando estas func
 	* arc()
 	
 **Formato de entrega:**
-crear un archivo comprimido `[apellido].zip` conteniendo la imagen de referencia y el sketch de Processing
+crear un archivo comprimido `[apellido-nombre].zip` conteniendo la imagen de referencia y el sketch de Processing
 
 **Dónde entregar:**
-subir el archivo a [esta carpeta de dropbox](https://www.dropbox.com/request/opwZxqug3A2kf0IEu4Oh) antes de las 23:00 del lunes 08 de Agosto, previo al curso.
+subir el archivo a [esta carpeta de dropbox](https://www.dropbox.com/request/Fp9QpiRDk2g7dGzTsJQc) antes de las 08:00 del martes 11 de Octubre, previo al curso.
 
 **Evaluación:**
-Entregas tardías bajan 2 puntos
+Entregas tardías bajan 1 puntos.

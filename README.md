@@ -1,5 +1,5 @@
 # Programación
-## 1401S_DIC122_1_2016
+## 1401S_DIC122_2_2016
 Repositorio de información, código, links y documentos para el curso de **Programación**, en la Facultad de Diseño UDD.
 
 Descargar [Programa del Curso en PDF](https://github.com/sergiomajluf/Programacion/blob/master/DIC122_Programaci%C3%B3n.pdf)
@@ -20,7 +20,7 @@ Junto con los conocimientos introductorios al pensamiento computacional, este cu
 * A través de la discusión guiada y el análisis de dichos ejercicios, se desarrolla el aprendizaje.
 
 ## Evaluación
-Existirán al menos 4 evaluaciones calificadas durante el semestre, que en su totalidad deberán sumar el 100% de la Nota de Presentación a Examen.Esta a su vez equivaldrá al 70% de la nota final del ramo.Ninguna evaluación podrá, por sí sola, ponderar más del 25% de la nota total del curso.
+Existirán al menos 3 evaluaciones calificadas durante el semestre, que en su totalidad deberán sumar el 100% de la Nota de Presentación a Examen.Esta a su vez equivaldrá al 70% de la nota final del ramo.Ninguna evaluación podrá, por sí sola, ponderar más del 25% de la nota total del curso.
 Las evaluaciones se componen de:
 * Participación constante de cada estudiante
 * Ejercicios semanales
@@ -68,7 +68,7 @@ Existirán al menos 4 evaluaciones calificadas durante el semestre, que en su to
 Esta planificación semenal **es permanentemente actualizada** para ajustarse a la realidad de lo visto durante la clase.
 Se sugiere revisar cada una de las semanas/carpetas para ver el detalle de los contenidos de cada sesión.
 
-###Semana 1 / 02 de Agosto
+###Semana 1 / 04 de Octubre
 * PPT Conceptos
 * Pseudo Código
 * IDE
@@ -79,7 +79,7 @@ Se sugiere revisar cada una de las semanas/carpetas para ver el detalle de los c
 * Funciones de apariencia, trazo, relleno, colores
 
 
-###Semana 2 / 09 de Agosto
+###Semana 2 / 11 de Octubre
 * ~~Figuras()~~
 * Colores
 * Variables y Data Types
@@ -87,14 +87,14 @@ Se sugiere revisar cada una de las semanas/carpetas para ver el detalle de los c
 * Static v/s Interactive Sketch
 * Mouse Interaction
 
-###Semana 3 / 16 de Agosto
+###Semana 3 / 18 de Octubre
 * ~~Matemática~~
 * ~~Interacción (mouseX)~~
 * ~~For Loops~~
 * ~~conditionals~~
 * Random
 
-###Semana 4 / 23 de Agosto
+###Semana 4 / 25 de Octubre
 * Translate
 * Scale
 * Rotate
@@ -103,18 +103,18 @@ Se sugiere revisar cada una de las semanas/carpetas para ver el detalle de los c
 * Importar Imágenes
 * Funciones
 
-###Semana 5 / 30 de Agosto
+###Semana 5 / 01 de Noviembre
 * Strings
 * Fonts
 * Librerías
 
-###Semana 6 / 06 de Septiembre
+###Semana 6 / 08 de Noviembre
 * Web API
 
-###Semana 7 / 13 de Septiembre
+###Semana 7 / 15 de Noviembre
 * preparación Examen
 
-###Semana 8 / 27 de Septiembre
+###Semana 8 / 22 de Noviembre
 * pre-entrega Examen
 
 

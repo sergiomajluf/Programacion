@@ -5,18 +5,21 @@
 
 # Semana 02
 
-* Color
+* Repaso de Color
+* Estructuras de Control
+	* comparaciones
+	* for loops
+	* if/else
 * Variables y Data Types
-* Estructuras de Control (comparaciones, for loops, if/else)
-* ~~Static v/s Interactive Sketch~~
-* ~~Mouse Interaction~~
+* ~~Interacción de Usuario~~
 	* ~~mouseX, mouseY, pmpuseX, pmouseY~~
+
 
 ---
 
 # Próxima Semana
-## Lecturas
-* [No aprendas a programar](https://techcrunch.com/2016/05/10/please-dont-learn-to-code/)
+## Lectura Obligatoria
+* [Apropiación y Diseño](https://www.interaction-design.org/literature/article/appropriation-and-design-a-tale-of-two-concepts)
 
 ## Video sugerido
 * [Estructuras de Control](https://www.acamica.com/clases/373/programacion-creativa-con-processing/estructuras-de-control-condicionales)

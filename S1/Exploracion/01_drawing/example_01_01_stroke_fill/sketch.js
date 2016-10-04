@@ -3,14 +3,26 @@
 // http://www.learningprocessing.com
 
 // Example 1-1: stroke and fill
+var cnv, x, y;
+x = 0;
 
 function setup() {
-  createCanvas(480, 270);
-  stroke(0); 
+  cnv = createCanvas(300, 300);
+  var y = (windowHeight - height) / 2;
+
+  background(255, 0, 200);
+  stroke(0);
   fill(150);
 }
 
 function draw() {
-  background(255);
-  rect(50,50,75,100);
+  background(123);
+
+  cnv.position(x, 200)
+  fill(255, 0, 0)
+  rect(x*2, 50, 75, 100);
+
+  x++;
+  console.log(x)
+
 }
