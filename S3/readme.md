@@ -20,8 +20,7 @@
 
 
 # Próxima Semana
-## Lecturas
-* [No aprendas a programar](https://techcrunch.com/2016/05/10/please-dont-learn-to-code/)
+
 
 ## Video sugerido
 * [Estructuras de Control](https://www.acamica.com/clases/373/programacion-creativa-con-processing/estructuras-de-control-condicionales)

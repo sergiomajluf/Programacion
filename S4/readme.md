@@ -17,22 +17,22 @@
 
 
 # Próxima Semana
+## Lecturas
+* [No aprendas a programar](https://techcrunch.com/2016/05/10/please-dont-learn-to-code/)
 
 
 ## Video sugerido
+###Estos repasan la clase anterior. Verlos es obligatorio
+
 * [Funciones: Modularidad I](https://www.acamica.com/clases/389/programacion-creativa-con-processing/funciones-modularidad)
 * [Funciones: Modularidad II](https://www.acamica.com/clases/409/programacion-creativa-con-processing/funciones-modularidad-ii)
+
+###Para no perder el ritmo con el martes feriado
+
+* [8.1: What is Object-Oriented Programming (OOP)?](https://www.youtube.com/watch?v=YcbcfkLzgvs)
+* [8.2: Defining a Class Part I](https://www.youtube.com/watch?v=lmgcMPRa1qw)
+* [8.3: Defining a Class Part II](https://www.youtube.com/watch?v=XwfOVFelLoo)
+* [8.4: Constructor Arguments](https://www.youtube.com/watch?v=NrwaKOsplZk)
+
 	
 
-# Entrega 03:Lo que Funciona
-Desarrollar un ejercicio de experimentación, incluyendo el código aprendo hasta ahora, y utilizando funciones propias.
-
-	
-**Formato de entrega:**
-crear un archivo comprimido `[apellido-nombre].zip` conteniendo la imagen de referencia y el sketch de Processing
-
-**Dónde entregar:**
-subir el archivo a [esta carpeta de dropbox](https://www.dropbox.com/request/q5Zl9TZLAWA0jcNymRzQ) antes de las 08:00 del **MIÉRCOLES 02 de Noviembre**, durante la ayudantía.
-
-**Evaluación:**
-Entregas tardías bajan 1 punto

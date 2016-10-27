@@ -26,6 +26,19 @@
 * [8.4: Constructor Arguments](https://www.youtube.com/watch?v=NrwaKOsplZk)
 
 
+# Entrega 03:Lo que Funciona
+Desarrollar un ejercicio de experimentación, incluyendo el código aprendo hasta ahora, y utilizando funciones propias.
+
+	
+**Formato de entrega:**
+crear un archivo comprimido `[apellido-nombre].zip` conteniendo la imagen de referencia y el sketch de Processing
+
+**Dónde entregar:**
+subir el archivo a [esta carpeta de dropbox](https://www.dropbox.com/request/q5Zl9TZLAWA0jcNymRzQ) antes de las 08:00 del **MIÉRCOLES 02 de Noviembre**, durante la ayudantía.
+
+**Evaluación:**
+Entregas tardías bajan 1 punto
+
 # Entrega 04: Objetos 
 Realizar una composición integrando objetos, y el contenido de la clases hasta hoy:
 	* Eventos de Teclado
