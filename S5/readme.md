@@ -37,7 +37,7 @@ Desarrollar un ejercicio de experimentación, incluyendo el código aprendo hast
 crear un archivo comprimido `[apellido-nombre].zip` conteniendo la imagen de referencia y el sketch de Processing
 
 **Dónde entregar:**
-subir el archivo a [esta carpeta de dropbox](https://www.dropbox.com/request/q5Zl9TZLAWA0jcNymRzQ) antes de las 08:00 del **MIÉRCOLES 02 de Noviembre**, durante la ayudantía.
+Enviar por email al profesor con copia al ayudante.
 
 **Evaluación:**
 Entregas tardías bajan 1 punto
