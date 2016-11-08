@@ -11,13 +11,14 @@
 * PImage
 * Objetos
 
+* Conversaremso sobre el examen
+
+
 ---
 
 
 
 # Próxima Semana
-## Lecturas
-
 
 ## Video sugerido
 * [8.1: What is Object-Oriented Programming (OOP)?](https://www.youtube.com/watch?v=YcbcfkLzgvs)
@@ -25,9 +26,11 @@
 * [8.3: Defining a Class Part II](https://www.youtube.com/watch?v=XwfOVFelLoo)
 * [8.4: Constructor Arguments](https://www.youtube.com/watch?v=NrwaKOsplZk)
 
+# Traer Material para trabajar en el examen
 
-# Entrega 03:Lo que Funciona
-Desarrollar un ejercicio de experimentación, incluyendo el código aprendo hasta ahora, y utilizando funciones propias.
+
+# Entrega 03+04: Objetos que  Funcionan
+Desarrollar un ejercicio de experimentación, incluyendo el código aprendo hasta ahora, y utilizando un loop que llame a objetos y sus métodos.
 
 	
 **Formato de entrega:**
@@ -39,21 +42,3 @@ subir el archivo a [esta carpeta de dropbox](https://www.dropbox.com/request/q5Z
 **Evaluación:**
 Entregas tardías bajan 1 punto
 
-# Entrega 04: Objetos 
-Realizar una composición integrando objetos, y el contenido de la clases hasta hoy:
-	* Eventos de Teclado
-	* Eventos de Mouse
-	* Loop / Condicionales
-	* Array
-	* PFont
-	* PImage
-
-	
-**Formato de entrega:**
-crear un archivo comprimido `[apellido-nombre].zip` conteniendo la imagen de referencia y el sketch de Processing
-
-**Dónde entregar:**
-subir el archivo a [esta carpeta de dropbox](https://www.dropbox.com/request/tAXZknL6gRYFFoc4aKaJ) antes de las 08:00 del martes 08 de Noviembre, previo al curso.
-
-**Evaluación:**
-Entregas tardías bajan 1 punto.

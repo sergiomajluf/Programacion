@@ -6,7 +6,7 @@
 # Semana 06
 
 * Arrays
-* Conversamos para el Examen
+* Trabajaremos para para el Examen
 
 ---
 
