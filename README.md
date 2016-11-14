@@ -103,18 +103,21 @@ Se sugiere revisar cada una de las semanas/carpetas para ver el detalle de los c
 * Importar Imágenes
 * Funciones
 
-###Semana 5 / 01 de Noviembre
+###Semana 5 / 08 de Noviembre
 * Strings
 * Fonts
-* Librerías
+* ~~Librerías~~
+* Introducción a Programación basada en Objetos (OOP)
 
-###Semana 6 / 08 de Noviembre
-* Web API
+###Semana 6 / 15 de Noviembre
+* ~~Web API~~
+* Programación basada en Objetos (OOP)
+* Arrays
 
-###Semana 7 / 15 de Noviembre
+###Semana 7 / 22 de Noviembre
 * preparación Examen
 
-###Semana 8 / 22 de Noviembre
-* pre-entrega Examen
+###Semana 8 / 29 de Noviembre
+* Examen
 
 

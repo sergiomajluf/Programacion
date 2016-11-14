@@ -5,6 +5,7 @@
 
 # Semana 06
 
+* Programación basada en Objetos (OOP)
 * Arrays
 * Trabajaremos para para el Examen
 
