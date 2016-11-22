@@ -16,11 +16,12 @@ PImage[] imagenes = new PImage[totalUsers];
 
 // Array doble con todos los datos
 String[][] dataContactos = {
-  {"Juan Vargas", "iPhone", "true", "73.jpg"}, 
+  // Nombre,       etiqueta,   activo,  foto
+  {"Juan Vargas",  "iPhone",   "true",  "73.jpg"}, 
   {"Paz Daccaret", "Whatsapp", "false", "54.jpg"}, 
-  {"Felix elGato", "trabajo", "false", "76.jpg"}, 
-  {"Pili Edwards", "casa", "true", "84.jpg"}, 
-  {"María José García", "iPhone", "true", "89.jpg"}
+  {"Felix elGato", "trabajo",  "false", "76.jpg"}, 
+  {"Pili Edwards", "casa",     "true",  "84.jpg"}, 
+  {"María García", "iPhone",   "true",  "89.jpg"}
 };
 
 // Tipografías que usaremos
