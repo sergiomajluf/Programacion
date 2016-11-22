@@ -1,9 +1,18 @@
 // dos arrays creados manualmente
-int[] numeros ={8 ,10, 7, 3, 5,14,18, 0, 6, 4, 12,15,35, 1, 9,16,21,80, 19 };
-int[] posX = {20, 40, 60, 80, 100, 120, 140, 160, 180, 200, 220, 240, 260, 280, 300, 320, 340, 360, 380};
+float[] numeros = new float[1000];
+float[] posX = new float[1000];
 
 void setup() {
-  size(400, 400);
+  size(800, 400);
+  
+  for (int i = 0; i < numeros.length; i++){
+     print("Esta linea se imprimie ");
+     print(i);
+     println(" veces");
+    
+     posX[i] = random(width); 
+     numeros[i] = random(200); 
+  }
 }
 
 void draw() {
@@ -12,7 +21,7 @@ void draw() {
   fill(200, 80);
   // centroX, centroY, ancho, alto
 
-  for (int i =0; i < 19; i++) {
+  for (int i =0; i < numeros.length; i++) {
     // la posicionX obtenida de un array, y el tamaño de otro
     ellipse(posX[i], 200, numeros[i], numeros[i] );
   }

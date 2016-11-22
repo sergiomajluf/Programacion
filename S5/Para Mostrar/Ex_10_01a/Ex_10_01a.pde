@@ -4,16 +4,19 @@
 
 JitterBug bug; // Declarar un objeto
 
+
 void setup() {
   size(480, 480);
   // Crear objeto y pasarle parámetros
   bug = new JitterBug(width/2, height/2, 20);
+ 
 }
 
 void draw() {
   background(0);
   bug.move();
   bug.display();
+ 
 }
 
 
