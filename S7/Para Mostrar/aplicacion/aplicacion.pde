@@ -1,4 +1,4 @@
-Contacto[] contactos = new Contacto[5];
+Contacto[] contactos = new Contacto[2];
 
 String[] personas = {
   "Juan Vargas",
@@ -24,6 +24,10 @@ boolean[] estados = {
   true
 };
 
+String dataContactos = {
+  {"Sergio Majluf", "iPhone", true},
+  {"Magaly Garcia", "casa", false}
+}
 
 
 PFont f_nombre;
